@@ -10,6 +10,13 @@ The created graphs can be saved to .graph files and opened later.
 ## GUI mode
 This mode is opened simple opening the .bat or .sh file (with python3 and the requiered libraries installed)
 
+In this modes the controls are:
+- **Left Click:** Creates or moves nodes
+- **Left Click over Nodes:** Select/Deselect node
+  - With a node selected, click another to connect them
+- **Right Click over Nodes:** Delete node
+- **Center Click:** Cicle between types Normal, Start and End
+
 ## Console mode
 This is an optimized mode for opening and solving .graph files. This mode is accesed by using a terminal/console to open the .bat or .sh file and adding the `--ng` or `--no-gui`.
 ```
