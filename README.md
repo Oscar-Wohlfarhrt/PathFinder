@@ -16,6 +16,8 @@ _Se requiere tener Python 3 instalado para ejecutar el programa._
 ## Instalación
 Extraer todos los archivos fuentes en una misma carpeta.
 
+Si los archivos .bat o .sh no funcionan correctamente, se puede ejecutar el programa con el comando: `python3 "PathFinder.py"`
+
 ## Modo Gráfico
 Este modo se abre simplemente ejecutando el archivo .bat o .sh (teniendo python3 y las librerías requeridas instaladas)
 
@@ -60,6 +62,8 @@ _Python 3 is requiered to execute the program._
 
 ## Instalation
 Extract all source files inside a folder.
+
+If the .bat or .sh files doesn't work correctly, the program can be executed with the command: `python3 "PathFinder.py"`
 
 ## GUI mode
 This mode is opened simple opening the .bat or .sh file (with python3 and the requiered libraries installed)
